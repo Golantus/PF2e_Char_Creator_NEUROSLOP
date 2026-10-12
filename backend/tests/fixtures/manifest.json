@@ -1,0 +1,22 @@
+{
+  "druid": "classes/druid.html",
+  "fighter": "classes/fighter.html",
+  "sorcerer": "classes/sorcerer.html",
+  "archetype_wizard": "classes/archetypes/wizard.html",
+  "archetypes": "classes/archetypes/index.html",
+  "human": "ancestries_and_backgrounds/ancestries/human.html",
+  "backgrounds": "ancestries_and_backgrounds/backgrounds.html",
+  "feats": "feats.html",
+  "druid_focus": "spells/focus/Druid.html",
+  "heal": "spells/H/heal.html",
+  "fireball": "spells/F/fireball.html",
+  "armor": "equipment/Armor.html",
+  "weapons": "equipment/Weapons.html",
+  "runes": "crafting_and_treasure/runes.html",
+  "cleric": "classes/cleric.html",
+  "sorcerer_focus": "spells/focus/Sorcerer.html",
+  "barbarian": "classes/barbarian.html",
+  "gnoll": "ancestries_and_backgrounds/ancestries/gnoll.html",
+  "duskwalker": "ancestries_and_backgrounds/versatile_heritages/duskwalker.html",
+  "deviant": "books/Dark-Archive/Deviant-Abilities.html"
+}

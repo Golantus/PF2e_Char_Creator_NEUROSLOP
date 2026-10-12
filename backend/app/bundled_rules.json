@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#id9",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls"
+    ],
+    "kind": "feature",
+    "name": "Спасброски и броски атак девиаций",
+    "english": "Deviation Saves and Attack Rolls",
+    "title": "Спасброски и броски атак девиаций ( Deviation Saves and Attack Rolls )",
+    "level": 1,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications",
+    "html": "<section>\n<span></span><h4>Спасброски и броски атак девиаций (<a href=\"https://2e.aonprd.com/Rules.aspx?ID=1724\" rel=\"noopener noreferrer\" target=\"_blank\">Deviation Saves and Attack Rolls</a>)</h4>\n<p><strong>Источник</strong>: Dark Archive pg. 99</p>\n<p>Многие девиации позволяют совершать спасбросок или обладают другими возможностями, которые меняются по мере повышения вашего уровня.\nКС для любого спасброска, вызванного девиацией, является наибольшим значением между вашим КС класса или КС заклинаний.\nМодификатор атаки девиации на 10 ниже этого КС, если только девиация не требует <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Ударить (Strike)</span></a>, в этом случае модификатор атаки равен обычному модификатору атаки Удара.\nМодификатор противодействия девиации равен вашему модификатору противодействия.</p>\n</section>",
+    "text": "Спасброски и броски атак девиаций ( Deviation Saves and Attack Rolls )\nИсточник : Dark Archive pg. 99\nМногие девиации позволяют совершать спасбросок или обладают другими возможностями, которые меняются по мере повышения вашего уровня.\nКС для любого спасброска, вызванного девиацией, является наибольшим значением между вашим КС класса или КС заклинаний.\nМодификатор атаки девиации на 10 ниже этого КС, если только девиация не требует Ударить (Strike) , в этом случае модификатор атаки равен обычному модификатору атаки Удара.\nМодификатор противодействия девиации равен вашему модификатору противодействия.",
+    "own_text": "Спасброски и броски атак девиаций ( Deviation Saves and Attack Rolls )\nИсточник : Dark Archive pg. 99\nМногие девиации позволяют совершать спасбросок или обладают другими возможностями, которые меняются по мере повышения вашего уровня.\nКС для любого спасброска, вызванного девиацией, является наибольшим значением между вашим КС класса или КС заклинаний.\nМодификатор атаки девиации на 10 ниже этого КС, если только девиация не требует Ударить (Strike) , в этом случае модификатор атаки равен обычному модификатору атаки Удара.\nМодификатор противодействия девиации равен вашему модификатору противодействия.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+    "traits": [],
+    "fields": {
+      "Источник": "Dark Archive pg. 99"
+    },
+    "field_links": {
+      "Источник": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Rules.aspx?ID=1724",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike"
+    ],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#id10",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash"
+    ],
+    "kind": "feature",
+    "name": "Отдача",
+    "english": "Backlash",
+    "title": "Отдача ( Backlash )",
+    "level": 1,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications",
+    "html": "<section>\n<span></span><h4>Отдача (<a href=\"https://2e.aonprd.com/Rules.aspx?ID=1725\" rel=\"noopener noreferrer\" target=\"_blank\">Backlash</a>)</h4>\n<p><strong>Источник</strong>: Dark Archive pg. 100</p>\n<p>Та же кровь, которая позволяет одному из потомков дракона извергать струи пламени, сохраняет внутреннюю часть его рта от ожогов.\nК сожалению, девиации, лишены таких гарантий, их силы возникают в результате неподвластных обстоятельств и взаимодействий, а не намеренного замысла.\nПерсонаж, использующий свою девиацию, всегда рискует получить отдачу.</p>\n<p>Каждый раз, когда вы пытаетесь использовать девиацию, бросьте чистую проверку КС 5.\nПри успехе, вы используете свою девиацию, и КС для последующих проверок увеличивается на 5, максимум до 20; при провале, вы используете девиацию, а затем страдаете от эффекта отдачи, после чего КС вашей чистой проверки сбрасывается до 5.\nОтдача развивается от легкой, к умеренной и сильной.\nЕсли за день вы уже получили легкую отдачу, то в следующий раз, когда вы получите отдачу, она будет умеренной, а если вы уже получили умеренную отдачу, то получите сильную, и вашу девиацию нельзя использовать до конца дня - попытка ее использовать просто причиняет боль.\nКогда вы совершаете свои ежедневные приготовления, КС вашей чистой проверки сбрасывается до 5, а ваша следующая отдача возвращается к слабой.</p>\n<p>Любые эффекты от отдачи нельзя уменьшить, предотвратить или обойти каким-либо способом.\nСостояния и урон, получаемые вами от отдачи, не могут быть уменьшены или предотвращены сопротивлением или иммунитетом, но все равно вызывают любую вашу слабость к ним.</p>\n</section>",
+    "text": "Отдача ( Backlash )\nИсточник : Dark Archive pg. 100\nТа же кровь, которая позволяет одному из потомков дракона извергать струи пламени, сохраняет внутреннюю часть его рта от ожогов.\nК сожалению, девиации, лишены таких гарантий, их силы возникают в результате неподвластных обстоятельств и взаимодействий, а не намеренного замысла.\nПерсонаж, использующий свою девиацию, всегда рискует получить отдачу.\nКаждый раз, когда вы пытаетесь использовать девиацию, бросьте чистую проверку КС 5.\nПри успехе, вы используете свою девиацию, и КС для последующих проверок увеличивается на 5, максимум до 20; при провале, вы используете девиацию, а затем страдаете от эффекта отдачи, после чего КС вашей чистой проверки сбрасывается до 5.\nОтдача развивается от легкой, к умеренной и сильной.\nЕсли за день вы уже получили легкую отдачу, то в следующий раз, когда вы получите отдачу, она будет умеренной, а если вы уже получили умеренную отдачу, то получите сильную, и вашу девиацию нельзя использовать до конца дня - попытка ее использовать просто причиняет боль.\nКогда вы совершаете свои ежедневные приготовления, КС вашей чистой проверки сбрасывается до 5, а ваша следующая отдача возвращается к слабой.\nЛюбые эффекты от отдачи нельзя уменьшить, предотвратить или обойти каким-либо способом.\nСостояния и урон, получаемые вами от отдачи, не могут быть уменьшены или предотвращены сопротивлением или иммунитетом, но все равно вызывают любую вашу слабость к ним.",
+    "own_text": "Отдача ( Backlash )\nИсточник : Dark Archive pg. 100\nТа же кровь, которая позволяет одному из потомков дракона извергать струи пламени, сохраняет внутреннюю часть его рта от ожогов.\nК сожалению, девиации, лишены таких гарантий, их силы возникают в результате неподвластных обстоятельств и взаимодействий, а не намеренного замысла.\nПерсонаж, использующий свою девиацию, всегда рискует получить отдачу.\nКаждый раз, когда вы пытаетесь использовать девиацию, бросьте чистую проверку КС 5.\nПри успехе, вы используете свою девиацию, и КС для последующих проверок увеличивается на 5, максимум до 20; при провале, вы используете девиацию, а затем страдаете от эффекта отдачи, после чего КС вашей чистой проверки сбрасывается до 5.\nОтдача развивается от легкой, к умеренной и сильной.\nЕсли за день вы уже получили легкую отдачу, то в следующий раз, когда вы получите отдачу, она будет умеренной, а если вы уже получили умеренную отдачу, то получите сильную, и вашу девиацию нельзя использовать до конца дня - попытка ее использовать просто причиняет боль.\nКогда вы совершаете свои ежедневные приготовления, КС вашей чистой проверки сбрасывается до 5, а ваша следующая отдача возвращается к слабой.\nЛюбые эффекты от отдачи нельзя уменьшить, предотвратить или обойти каким-либо способом.\nСостояния и урон, получаемые вами от отдачи, не могут быть уменьшены или предотвращены сопротивлением или иммунитетом, но все равно вызывают любую вашу слабость к ним.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+    "traits": [],
+    "fields": {
+      "Источник": "Dark Archive pg. 100"
+    },
+    "field_links": {
+      "Источник": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Rules.aspx?ID=1725"
+    ],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-universal-awakened-power",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-universal-awakened-power",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#awakened-power-4"
+    ],
+    "kind": "feature",
+    "name": "Пробужденная сила",
+    "english": "Awakened Power",
+    "title": "Пробужденная сила ( Awakened Power ) / 4",
+    "level": 4,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-universal-feats",
+    "html": "<section>\n<span></span><h4>Пробужденная сила (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3778\" rel=\"noopener noreferrer\" target=\"_blank\">Awakened Power</a>) / 4</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 100</p>\n<hr>\n<p>Ваша сила спонтанно развивается или изменяется.\nВы получаете 1 преимущество пробуждения для <span>девиантной</span> способности 4-го уровня или ниже.</p>\n<p><strong>Особенность</strong>: Вы можете взять эту способность несколько раз.\nКаждый раз, когда вы так делаете, выберите другую <span>девиантную</span> способность 4-го уровня или ниже, и получите одно из ее преимуществ пробуждения.</p>\n</section>",
+    "text": "Пробужденная сила ( Awakened Power ) / 4\nредкий\nдевиантный\nИсточник : Dark Archive pg. 100\nВаша сила спонтанно развивается или изменяется.\nВы получаете 1 преимущество пробуждения для девиантной способности 4-го уровня или ниже.\nОсобенность : Вы можете взять эту способность несколько раз.\nКаждый раз, когда вы так делаете, выберите другую девиантную способность 4-го уровня или ниже, и получите одно из ее преимуществ пробуждения.",
+    "own_text": "Пробужденная сила ( Awakened Power ) / 4\nредкий\nдевиантный\nИсточник : Dark Archive pg. 100\nВаша сила спонтанно развивается или изменяется.\nВы получаете 1 преимущество пробуждения для девиантной способности 4-го уровня или ниже.\nОсобенность : Вы можете взять эту способность несколько раз.\nКаждый раз, когда вы так делаете, выберите другую девиантную способность 4-го уровня или ниже, и получите одно из ее преимуществ пробуждения.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-universal-awakened-power",
+    "traits": [
+      "редкий",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 100",
+      "Особенность": "Вы можете взять эту способность несколько раз. Каждый раз, когда вы так делаете, выберите другую девиантную способность 4-го уровня или ниже, и получите одно из ее преимуществ пробуждения."
+    },
+    "field_links": {
+      "Источник": [],
+      "Особенность": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3778"
+    ],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": true,
+    "has_choices": true
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-universal-greater-awakened-power",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-universal-greater-awakened-power",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#greater-awakened-power-10"
+    ],
+    "kind": "feature",
+    "name": "Великая пробужденная сила",
+    "english": "Greater Awakened Power",
+    "title": "Великая пробужденная сила ( Greater Awakened Power ) / 10",
+    "level": 10,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-universal-feats",
+    "html": "<section>\n<span></span><h4>Великая пробужденная сила (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3779\" rel=\"noopener noreferrer\" target=\"_blank\">Greater Awakened Power</a>) / 10</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 100</p>\n<hr>\n<p>Ваша сила переживает очередное пробуждение.\nВы получаете 1 преимущество пробуждения для <span>девиантной</span> способности 10-го уровня или ниже.</p>\n<p><strong>Особенность</strong>: Вы можете взять эту способность несколько раз.\nКаждый раз, когда вы так делаете, выберите другую <span>девиантную</span> способность 10-го уровня или ниже, и получите одно из ее преимуществ пробуждения.</p>\n<p>⁯</p>\n</section>",
+    "text": "Великая пробужденная сила ( Greater Awakened Power ) / 10\nредкий\nдевиантный\nИсточник : Dark Archive pg. 100\nВаша сила переживает очередное пробуждение.\nВы получаете 1 преимущество пробуждения для девиантной способности 10-го уровня или ниже.\nОсобенность : Вы можете взять эту способность несколько раз.\nКаждый раз, когда вы так делаете, выберите другую девиантную способность 10-го уровня или ниже, и получите одно из ее преимуществ пробуждения.\n⁯",
+    "own_text": "Великая пробужденная сила ( Greater Awakened Power ) / 10\nредкий\nдевиантный\nИсточник : Dark Archive pg. 100\nВаша сила переживает очередное пробуждение.\nВы получаете 1 преимущество пробуждения для девиантной способности 10-го уровня или ниже.\nОсобенность : Вы можете взять эту способность несколько раз.\nКаждый раз, когда вы так делаете, выберите другую девиантную способность 10-го уровня или ниже, и получите одно из ее преимуществ пробуждения.\n⁯",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-universal-greater-awakened-power",
+    "traits": [
+      "редкий",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 100",
+      "Особенность": "Вы можете взять эту способность несколько раз. Каждый раз, когда вы так делаете, выберите другую девиантную способность 10-го уровня или ниже, и получите одно из ее преимуществ пробуждения."
+    },
+    "field_links": {
+      "Источник": [],
+      "Особенность": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3779"
+    ],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": true,
+    "has_choices": true
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-blasting-beams",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-blasting-beams",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#blasting-beams-1-2"
+    ],
+    "kind": "feature",
+    "name": "Взрывные лучи",
+    "english": "Blasting Beams",
+    "title": "Взрывные лучи ( Blasting Beams ) / 2",
+    "level": 2,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon",
+    "html": "<section>\n<span></span><h4>Взрывные лучи (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3780\" rel=\"noopener noreferrer\" target=\"_blank\">Blasting Beams</a>)  [одиночное действие]  / 2</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>атака</p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Требования</strong>: У вас свободна рука</p>\n<p><strong>Источник</strong>: Dark Archive pg. 100</p>\n<hr>\n<p>Направленный луч тепла или дуга молнии - один из простейших способов проецирования энергии.\nВы выстреливаете взрывом или лучом из одной руки.\nСовершите бросок атаки по существу в пределах 30 футов.\nПри успехе, луч наносит цели 1d6 урона за каждые ваши 2 уровня, или двойной урон при критическом попадании.</p>\n<p><strong>Пробуждение</strong>: Ваши лучи пробивают цели насквозь.\nВместо того чтобы совершать бросок атаки для нанесения урона одному существу в пределах 30 футов, вы можете использовать \"Взрывные лучи\" как активность в 2 действия ( [активность из 2-х действий] ), чтобы нанести урон всем существам в 60-футовой линии, с простым спасброском Рефлекса.</p>\n<p><strong>Пробуждение</strong>: Вы можете выпустить из глаз меньшие, более быстрые лучи.\nОни наносят урон d4 костями, а не d6, но атака обладает признаком <span>быстрое</span>, и для ее совершения вам не нужна свободная рука, однако ваши глаза должны быть неприкрыты.</p>\n</section>",
+    "text": "Взрывные лучи ( Blasting Beams ) [одиночное действие] / 2\nредкий\nатака\nмагический\nэвокация\nдевиантный\nТребования : У вас свободна рука\nИсточник : Dark Archive pg. 100\nНаправленный луч тепла или дуга молнии - один из простейших способов проецирования энергии.\nВы выстреливаете взрывом или лучом из одной руки.\nСовершите бросок атаки по существу в пределах 30 футов.\nПри успехе, луч наносит цели 1d6 урона за каждые ваши 2 уровня, или двойной урон при критическом попадании.\nПробуждение : Ваши лучи пробивают цели насквозь.\nВместо того чтобы совершать бросок атаки для нанесения урона одному существу в пределах 30 футов, вы можете использовать \"Взрывные лучи\" как активность в 2 действия ( [активность из 2-х действий] ), чтобы нанести урон всем существам в 60-футовой линии, с простым спасброском Рефлекса.\nПробуждение : Вы можете выпустить из глаз меньшие, более быстрые лучи.\nОни наносят урон d4 костями, а не d6, но атака обладает признаком быстрое , и для ее совершения вам не нужна свободная рука, однако ваши глаза должны быть неприкрыты.",
+    "own_text": "Взрывные лучи ( Blasting Beams ) [одиночное действие] / 2\nредкий\nатака\nмагический\nэвокация\nдевиантный\nТребования : У вас свободна рука\nИсточник : Dark Archive pg. 100\nНаправленный луч тепла или дуга молнии - один из простейших способов проецирования энергии.\nВы выстреливаете взрывом или лучом из одной руки.\nСовершите бросок атаки по существу в пределах 30 футов.\nПри успехе, луч наносит цели 1d6 урона за каждые ваши 2 уровня, или двойной урон при критическом попадании.\nПробуждение : Ваши лучи пробивают цели насквозь.\nВместо того чтобы совершать бросок атаки для нанесения урона одному существу в пределах 30 футов, вы можете использовать \"Взрывные лучи\" как активность в 2 действия ( [активность из 2-х действий] ), чтобы нанести урон всем существам в 60-футовой линии, с простым спасброском Рефлекса.\nПробуждение : Вы можете выпустить из глаз меньшие, более быстрые лучи.\nОни наносят урон d4 костями, а не d6, но атака обладает признаком быстрое , и для ее совершения вам не нужна свободная рука, однако ваши глаза должны быть неприкрыты.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-blasting-beams",
+    "traits": [
+      "редкий",
+      "атака",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Требования": "У вас свободна рука",
+      "Источник": "Dark Archive pg. 100",
+      "Пробуждение": "Вы можете выпустить из глаз меньшие, более быстрые лучи. Они наносят урон d4 костями, а не d6, но атака обладает признаком быстрое , и для ее совершения вам не нужна свободная рука, однако ваши глаза должны быть неприкрыты."
+    },
+    "field_links": {
+      "Требования": [],
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3780"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [],
+    "actions": [
+      "одиночное действие",
+      "активность из 2-х действий"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-consume-energy",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-consume-energy",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#consume-energy-2"
+    ],
+    "kind": "feature",
+    "name": "Поглощение энергии",
+    "english": "Consume Energy",
+    "title": "Поглощение энергии ( Consume Energy ) / 2",
+    "level": 2,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon",
+    "html": "<section>\n<span></span><h4>Поглощение энергии (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3781\" rel=\"noopener noreferrer\" target=\"_blank\">Consume Energy</a>)  [реакция]  / 2</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>преграждение</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Триггер</strong>: Враг в пределах 60 футов использует умение с признаком соответствующим типу урона вашей девиации</p>\n<p><strong>Источник</strong>: Dark Archive pg. 100</p>\n<hr>\n<p>Ваша связь с энергией намного сильнее, чем у происходящего перед вами оскорбительного проявления, что позволяет вам присваивать ее себе.\nСовершите проверку <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#ch9-counteracting\" rel=\"noopener noreferrer\" target=\"_blank\"><span>противодействия</span></a> против спровоцировавшего эффекта, так как вы втягиваете его в свое тело.\nЕсли вы успешно противодействуете умению, то получаете временные ОЗ, равные удвоенному уровню противодействия того умения, и длящиеся 1 минуту.</p>\n<p><strong>Пробуждение</strong>: Поглощаемая вами энергия помогает усилить ваши умения.\nСледующее используемое вами умение из драконьей классификации, увеличивает свою дистанцию на 30 футов, если у него есть дистанция, либо увеличивает свою область на 10 футов, если она является конусом или линией.\nЕсли вы не используете это преимущество в течение 1 минуты, оно исчезает.</p>\n<p><strong>Пробуждение</strong>: Вы направляете часть захваченной энергии в свою следующую атаку.\nВыберите одно из своих оружий или безоружных атак.\nДо конца вашего следующего хода, <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Удары (Strikes)</span></a> выбранным оружием или безоружной атакой наносят дополнительные 1d6 урона того типа, который соответствует поглощенной энергии.</p>\n</section>",
+    "text": "Поглощение энергии ( Consume Energy ) [реакция] / 2\nредкий\nмагический\nпреграждение\nдевиантный\nТриггер : Враг в пределах 60 футов использует умение с признаком соответствующим типу урона вашей девиации\nИсточник : Dark Archive pg. 100\nВаша связь с энергией намного сильнее, чем у происходящего перед вами оскорбительного проявления, что позволяет вам присваивать ее себе.\nСовершите проверку противодействия против спровоцировавшего эффекта, так как вы втягиваете его в свое тело.\nЕсли вы успешно противодействуете умению, то получаете временные ОЗ, равные удвоенному уровню противодействия того умения, и длящиеся 1 минуту.\nПробуждение : Поглощаемая вами энергия помогает усилить ваши умения.\nСледующее используемое вами умение из драконьей классификации, увеличивает свою дистанцию на 30 футов, если у него есть дистанция, либо увеличивает свою область на 10 футов, если она является конусом или линией.\nЕсли вы не используете это преимущество в течение 1 минуты, оно исчезает.\nПробуждение : Вы направляете часть захваченной энергии в свою следующую атаку.\nВыберите одно из своих оружий или безоружных атак.\nДо конца вашего следующего хода, Удары (Strikes) выбранным оружием или безоружной атакой наносят дополнительные 1d6 урона того типа, который соответствует поглощенной энергии.",
+    "own_text": "Поглощение энергии ( Consume Energy ) [реакция] / 2\nредкий\nмагический\nпреграждение\nдевиантный\nТриггер : Враг в пределах 60 футов использует умение с признаком соответствующим типу урона вашей девиации\nИсточник : Dark Archive pg. 100\nВаша связь с энергией намного сильнее, чем у происходящего перед вами оскорбительного проявления, что позволяет вам присваивать ее себе.\nСовершите проверку противодействия против спровоцировавшего эффекта, так как вы втягиваете его в свое тело.\nЕсли вы успешно противодействуете умению, то получаете временные ОЗ, равные удвоенному уровню противодействия того умения, и длящиеся 1 минуту.\nПробуждение : Поглощаемая вами энергия помогает усилить ваши умения.\nСледующее используемое вами умение из драконьей классификации, увеличивает свою дистанцию на 30 футов, если у него есть дистанция, либо увеличивает свою область на 10 футов, если она является конусом или линией.\nЕсли вы не используете это преимущество в течение 1 минуты, оно исчезает.\nПробуждение : Вы направляете часть захваченной энергии в свою следующую атаку.\nВыберите одно из своих оружий или безоружных атак.\nДо конца вашего следующего хода, Удары (Strikes) выбранным оружием или безоружной атакой наносят дополнительные 1d6 урона того типа, который соответствует поглощенной энергии.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-consume-energy",
+    "traits": [
+      "редкий",
+      "магический",
+      "преграждение",
+      "девиантный"
+    ],
+    "fields": {
+      "Триггер": "Враг в пределах 60 футов использует умение с признаком соответствующим типу урона вашей девиации",
+      "Источник": "Dark Archive pg. 100",
+      "Пробуждение": "Вы направляете часть захваченной энергии в свою следующую атаку. Выберите одно из своих оружий или безоружных атак. До конца вашего следующего хода, Удары (Strikes) выбранным оружием или безоружной атакой наносят дополнительные 1d6 урона того типа, который соответствует поглощенной энергии."
+    },
+    "field_links": {
+      "Триггер": [],
+      "Источник": [],
+      "Пробуждение": [
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike"
+      ]
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3781",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#ch9-counteracting",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "реакция"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": true
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-storming-breath",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-storming-breath",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#storming-breath-2-6"
+    ],
+    "kind": "feature",
+    "name": "Штормовое дыхание",
+    "english": "Storming Breath",
+    "title": "Штормовое дыхание ( Storming Breath ) / 6",
+    "level": 6,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon",
+    "html": "<section>\n<span></span><h4>Штормовое дыхание (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3782\" rel=\"noopener noreferrer\" target=\"_blank\">Storming Breath</a>)  [активность из 2-х действий]  / 6</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 100</p>\n<hr>\n<p>Вы извергаете леденящее дыхание или звуковой крик.\nВы наносите всем существам в 30-футовом конусе 4d6 урона + 1d6 урона за каждый ваш уровень после 6-го, с простым спасброском Рефлекса.</p>\n<p><strong>Пробуждение</strong>: Ваш взрыв мощно бьет врагов.\nСущество, критически провалившее спасбросок, сбивается <span>ничком</span>.</p>\n<p><strong>Пробуждение</strong>: Отдача от вашего взрыва помогает вам быстро убежать.\nПри использовании этого умения, вы <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-fly\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Отлетаете (Fly)</span></a> на 15 футов назад по прямой линии, в противоположную сторону от вашего взрыва.\nЭто передвижение не провоцирует реакции срабатывающие на движение.</p>\n</section>",
+    "text": "Штормовое дыхание ( Storming Breath ) [активность из 2-х действий] / 6\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 100\nВы извергаете леденящее дыхание или звуковой крик.\nВы наносите всем существам в 30-футовом конусе 4d6 урона + 1d6 урона за каждый ваш уровень после 6-го, с простым спасброском Рефлекса.\nПробуждение : Ваш взрыв мощно бьет врагов.\nСущество, критически провалившее спасбросок, сбивается ничком .\nПробуждение : Отдача от вашего взрыва помогает вам быстро убежать.\nПри использовании этого умения, вы Отлетаете (Fly) на 15 футов назад по прямой линии, в противоположную сторону от вашего взрыва.\nЭто передвижение не провоцирует реакции срабатывающие на движение.",
+    "own_text": "Штормовое дыхание ( Storming Breath ) [активность из 2-х действий] / 6\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 100\nВы извергаете леденящее дыхание или звуковой крик.\nВы наносите всем существам в 30-футовом конусе 4d6 урона + 1d6 урона за каждый ваш уровень после 6-го, с простым спасброском Рефлекса.\nПробуждение : Ваш взрыв мощно бьет врагов.\nСущество, критически провалившее спасбросок, сбивается ничком .\nПробуждение : Отдача от вашего взрыва помогает вам быстро убежать.\nПри использовании этого умения, вы Отлетаете (Fly) на 15 футов назад по прямой линии, в противоположную сторону от вашего взрыва.\nЭто передвижение не провоцирует реакции срабатывающие на движение.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-storming-breath",
+    "traits": [
+      "редкий",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 100",
+      "Пробуждение": "Отдача от вашего взрыва помогает вам быстро убежать. При использовании этого умения, вы Отлетаете (Fly) на 15 футов назад по прямой линии, в противоположную сторону от вашего взрыва. Это передвижение не провоцирует реакции срабатывающие на движение."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": [
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-fly"
+      ]
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3782",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-fly"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [],
+    "actions": [
+      "активность из 2-х действий"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-propulsive-leap",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-propulsive-leap",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#propulsive-leap-1-10"
+    ],
+    "kind": "feature",
+    "name": "Реактивный прыжок",
+    "english": "Propulsive Leap",
+    "title": "Реактивный прыжок ( Propulsive Leap ) / 10",
+    "level": 10,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon",
+    "html": "<section>\n<span></span><h4>Реактивный прыжок (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3783\" rel=\"noopener noreferrer\" target=\"_blank\">Propulsive Leap</a>)  [одиночное действие]  / 10</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 101</p>\n<hr>\n<p>Вы перемещаетесь по воздуху извергая пламя из своих ног или левитируя с помощью электрического отталкивания.\nНа 1 минуту вы получаете Скорость полета, равную вашей Скорости или 20 футам, в зависимости от того, что больше.\nЕсли в конце своего хода вы не на твердой земле, вы должны сделать еще одну проверку отдачи девиации, однако вы остаетесь в воздухе, даже если проваливаете проверку, если только урон от этой проверки не лишит вас <span>сознания</span>.</p>\n<p><strong>Пробуждение</strong>: Вы проноситесь по воздуху с огромной скоростью, получая бонус состояния +15 футов к Скорости полета от \"Реактивного прыжка\".</p>\n<p><strong>Пробуждение</strong>: Вы можете использовать свою тягу в качестве импровизированного оружия.\nПервый раз в раунд, когда вы <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-fly\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Летите (Fly)</span></a> с земли, все существа рядом с вами получают 1d4 урона за каждые 2 ваших уровня, с простым спасброском Рефлекса.</p>\n</section>",
+    "text": "Реактивный прыжок ( Propulsive Leap ) [одиночное действие] / 10\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 101\nВы перемещаетесь по воздуху извергая пламя из своих ног или левитируя с помощью электрического отталкивания.\nНа 1 минуту вы получаете Скорость полета, равную вашей Скорости или 20 футам, в зависимости от того, что больше.\nЕсли в конце своего хода вы не на твердой земле, вы должны сделать еще одну проверку отдачи девиации, однако вы остаетесь в воздухе, даже если проваливаете проверку, если только урон от этой проверки не лишит вас сознания .\nПробуждение : Вы проноситесь по воздуху с огромной скоростью, получая бонус состояния +15 футов к Скорости полета от \"Реактивного прыжка\".\nПробуждение : Вы можете использовать свою тягу в качестве импровизированного оружия.\nПервый раз в раунд, когда вы Летите (Fly) с земли, все существа рядом с вами получают 1d4 урона за каждые 2 ваших уровня, с простым спасброском Рефлекса.",
+    "own_text": "Реактивный прыжок ( Propulsive Leap ) [одиночное действие] / 10\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 101\nВы перемещаетесь по воздуху извергая пламя из своих ног или левитируя с помощью электрического отталкивания.\nНа 1 минуту вы получаете Скорость полета, равную вашей Скорости или 20 футам, в зависимости от того, что больше.\nЕсли в конце своего хода вы не на твердой земле, вы должны сделать еще одну проверку отдачи девиации, однако вы остаетесь в воздухе, даже если проваливаете проверку, если только урон от этой проверки не лишит вас сознания .\nПробуждение : Вы проноситесь по воздуху с огромной скоростью, получая бонус состояния +15 футов к Скорости полета от \"Реактивного прыжка\".\nПробуждение : Вы можете использовать свою тягу в качестве импровизированного оружия.\nПервый раз в раунд, когда вы Летите (Fly) с земли, все существа рядом с вами получают 1d4 урона за каждые 2 ваших уровня, с простым спасброском Рефлекса.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-dragon-propulsive-leap",
+    "traits": [
+      "редкий",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 101",
+      "Пробуждение": "Вы можете использовать свою тягу в качестве импровизированного оружия. Первый раз в раунд, когда вы Летите (Fly) с земли, все существа рядом с вами получают 1d4 урона за каждые 2 ваших уровня, с простым спасброском Рефлекса."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": [
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-fly"
+      ]
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3783",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-fly"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "одиночное действие"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#backlash-energetic-meltdown"
+    ],
+    "kind": "feature",
+    "name": "Отдача: Энергетическое плавление",
+    "english": "Backlash: Energetic Meltdown",
+    "title": "Отдача: Энергетическое плавление (Backlash: Energetic Meltdown)",
+    "level": 1,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon",
+    "html": "<section>\n<span></span><h4>Отдача: Энергетическое плавление (Backlash: Energetic Meltdown)</h4>\n<p><strong>Источник</strong>: Dark Archive pg. 101</p>\n<p>Когда вы направляете энергию при помощи своих девиантных умений, ее часть возвращается к вам, повышая температуру тела или танцуя по вашей коже.</p>\n<p><strong>Легкая отдача</strong>: Вы получаете урон, равный своему уровню, так как энергия проносится по вашему телу.</p>\n<p><strong>Умеренная отдача</strong>: Энергия разрушает ваше тело.\nПосле получения урона, вы до своих следующих ежедневных приготовлений получаете слабость к типу энергии вашей отдачи.\nСлабость равна одной трети (1/3) вашего уровня.\nЕще, если у вас был иммунитет к этому типу энергии, то вы его теряете до своих следующих ежедневных приготовлений.</p>\n<p><strong>Сильная отдача</strong>: Какой бы очаг или колодец внутри вас ни давали энергию для вашей девиации, они полностью перегружаются и вырываются из вас неконтролируемым взрывом.\nВы наносите всем существам в 30-футовой эманации 1d6 урона за уровень, с простым спасброском Стойкости.\nВы автоматически получаете полный урон без спасброска.</p>\n<p>⁯</p>\n</section>",
+    "text": "Отдача: Энергетическое плавление (Backlash: Energetic Meltdown)\nИсточник : Dark Archive pg. 101\nКогда вы направляете энергию при помощи своих девиантных умений, ее часть возвращается к вам, повышая температуру тела или танцуя по вашей коже.\nЛегкая отдача : Вы получаете урон, равный своему уровню, так как энергия проносится по вашему телу.\nУмеренная отдача : Энергия разрушает ваше тело.\nПосле получения урона, вы до своих следующих ежедневных приготовлений получаете слабость к типу энергии вашей отдачи.\nСлабость равна одной трети (1/3) вашего уровня.\nЕще, если у вас был иммунитет к этому типу энергии, то вы его теряете до своих следующих ежедневных приготовлений.\nСильная отдача : Какой бы очаг или колодец внутри вас ни давали энергию для вашей девиации, они полностью перегружаются и вырываются из вас неконтролируемым взрывом.\nВы наносите всем существам в 30-футовой эманации 1d6 урона за уровень, с простым спасброском Стойкости.\nВы автоматически получаете полный урон без спасброска.\n⁯",
+    "own_text": "Отдача: Энергетическое плавление (Backlash: Energetic Meltdown)\nИсточник : Dark Archive pg. 101\nКогда вы направляете энергию при помощи своих девиантных умений, ее часть возвращается к вам, повышая температуру тела или танцуя по вашей коже.\nЛегкая отдача : Вы получаете урон, равный своему уровню, так как энергия проносится по вашему телу.\nУмеренная отдача : Энергия разрушает ваше тело.\nПосле получения урона, вы до своих следующих ежедневных приготовлений получаете слабость к типу энергии вашей отдачи.\nСлабость равна одной трети (1/3) вашего уровня.\nЕще, если у вас был иммунитет к этому типу энергии, то вы его теряете до своих следующих ежедневных приготовлений.\nСильная отдача : Какой бы очаг или колодец внутри вас ни давали энергию для вашей девиации, они полностью перегружаются и вырываются из вас неконтролируемым взрывом.\nВы наносите всем существам в 30-футовой эманации 1d6 урона за уровень, с простым спасброском Стойкости.\nВы автоматически получаете полный урон без спасброска.\n⁯",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-dragon-backlash",
+    "traits": [],
+    "fields": {
+      "Источник": "Dark Archive pg. 101",
+      "Легкая отдача": "Вы получаете урон, равный своему уровню, так как энергия проносится по вашему телу.",
+      "Умеренная отдача": "Энергия разрушает ваше тело. После получения урона, вы до своих следующих ежедневных приготовлений получаете слабость к типу энергии вашей отдачи. Слабость равна одной трети (1/3) вашего уровня. Еще, если у вас был иммунитет к этому типу энергии, то вы его теряете до своих следующих ежедневных приготовлений.",
+      "Сильная отдача": "Какой бы очаг или колодец внутри вас ни давали энергию для вашей девиации, они полностью перегружаются и вырываются из вас неконтролируемым взрывом. Вы наносите всем существам в 30-футовой эманации 1d6 урона за уровень, с простым спасброском Стойкости. Вы автоматически получаете полный урон без спасброска."
+    },
+    "field_links": {
+      "Источник": [],
+      "Легкая отдача": [],
+      "Умеренная отдача": [],
+      "Сильная отдача": []
+    },
+    "links": [],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-bone-spikes",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-bone-spikes",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#bone-spikes-1-2"
+    ],
+    "kind": "feature",
+    "name": "Костяные шипы",
+    "english": "Bone Spikes",
+    "title": "Костяные шипы ( Bone Spikes ) / 2",
+    "level": 2,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll",
+    "html": "<section>\n<span></span><h4>Костяные шипы (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3784\" rel=\"noopener noreferrer\" target=\"_blank\">Bone Spikes</a>)  [одиночное действие]  / 2</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 101</p>\n<hr>\n<p>Острые осколки кости вырываются из ваших локтей, запястий или других частей тела.\nВ течение 1 минуты вы можете наносить безоружные <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Удары (Strikes)</span></a> костяными шипами, наносящие 1d6 колющего урона и обладающие признаками <span>универсальное Р</span> и <span>размах</span>.\nКогда вы выполняете действие \"Костяные шипы\", то можете выбрать 1 оружие, имеющееся при вас, и дублировать его оружейные руны на ваши костяные шипы (за исключением тех рун, которые не могут быть применены к костяным шипам).</p>\n<p><strong>Пробуждение</strong>: Ваши кости вырастают длиннее, гибче доставая врагов на расстоянии.\nПока у вас есть костяные шипы, вы можете <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Взаимодействовать (Interact)</span></a>, чтобы дать своим костяным шипам досягаемость 10 футов до конца текущего хода.</p>\n<p><strong>Пробуждение</strong>: Канавки в ваших костяных шипах образуют канал для яда.\nВаши костяные шипы наносят 1d4 продолжительного урона ядом, который увеличиваются до 2d4 на 10-м уровне и до 3d4 на 18-м уровне.</p>\n</section>",
+    "text": "Костяные шипы ( Bone Spikes ) [одиночное действие] / 2\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 101\nОстрые осколки кости вырываются из ваших локтей, запястий или других частей тела.\nВ течение 1 минуты вы можете наносить безоружные Удары (Strikes) костяными шипами, наносящие 1d6 колющего урона и обладающие признаками универсальное Р и размах .\nКогда вы выполняете действие \"Костяные шипы\", то можете выбрать 1 оружие, имеющееся при вас, и дублировать его оружейные руны на ваши костяные шипы (за исключением тех рун, которые не могут быть применены к костяным шипам).\nПробуждение : Ваши кости вырастают длиннее, гибче доставая врагов на расстоянии.\nПока у вас есть костяные шипы, вы можете Взаимодействовать (Interact) , чтобы дать своим костяным шипам досягаемость 10 футов до конца текущего хода.\nПробуждение : Канавки в ваших костяных шипах образуют канал для яда.\nВаши костяные шипы наносят 1d4 продолжительного урона ядом, который увеличиваются до 2d4 на 10-м уровне и до 3d4 на 18-м уровне.",
+    "own_text": "Костяные шипы ( Bone Spikes ) [одиночное действие] / 2\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 101\nОстрые осколки кости вырываются из ваших локтей, запястий или других частей тела.\nВ течение 1 минуты вы можете наносить безоружные Удары (Strikes) костяными шипами, наносящие 1d6 колющего урона и обладающие признаками универсальное Р и размах .\nКогда вы выполняете действие \"Костяные шипы\", то можете выбрать 1 оружие, имеющееся при вас, и дублировать его оружейные руны на ваши костяные шипы (за исключением тех рун, которые не могут быть применены к костяным шипам).\nПробуждение : Ваши кости вырастают длиннее, гибче доставая врагов на расстоянии.\nПока у вас есть костяные шипы, вы можете Взаимодействовать (Interact) , чтобы дать своим костяным шипам досягаемость 10 футов до конца текущего хода.\nПробуждение : Канавки в ваших костяных шипах образуют канал для яда.\nВаши костяные шипы наносят 1d4 продолжительного урона ядом, который увеличиваются до 2d4 на 10-м уровне и до 3d4 на 18-м уровне.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-bone-spikes",
+    "traits": [
+      "редкий",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 101",
+      "Пробуждение": "Канавки в ваших костяных шипах образуют канал для яда. Ваши костяные шипы наносят 1d4 продолжительного урона ядом, который увеличиваются до 2d4 на 10-м уровне и до 3d4 на 18-м уровне."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3784",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "одиночное действие"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-titan-swing",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-titan-swing",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#titan-swing-2-2"
+    ],
+    "kind": "feature",
+    "name": "Титанический замах",
+    "english": "Titan Swing",
+    "title": "Титанический замах ( Titan Swing ) / 2",
+    "level": 2,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll",
+    "html": "<section>\n<span></span><h4>Титанический замах (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3785\" rel=\"noopener noreferrer\" target=\"_blank\">Titan Swing</a>)  [активность из 2-х действий]  / 2</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>трансмутация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 101</p>\n<hr>\n<p>Ваши конечности напрягаются, когда вы делаете мощный замах.\nНанесите <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Удар (Strike) </span></a> ближнего боя.\nЕсли он попадает, вы наносите дополнительную кость урона оружия и отталкиваете цель назад на 5 футов.\nЕсли вы хотя бы 10-го уровня, то увеличиваете это значение до 2 дополнительных костей и отталкиваете цель на 10 футов, а если вы хотя бы 18-го уровня, то увеличиваете его до 3 дополнительных костей и отталкиваете цель на 15 футов.</p>\n<p><strong>Пробуждение</strong>: При критическом попадании, вы отталкиваете цель назад на удвоенное расстояние и сбиваете ее <span>ничком</span>.</p>\n<p><strong>Пробуждение</strong>: При попадании, вы наносите 1d6 продолжительного урона кровотечением.\nОн увеличивается до 2d6 на 10-м уровне и 3d6 на 18-м уровне.</p>\n</section>",
+    "text": "Титанический замах ( Titan Swing ) [активность из 2-х действий] / 2\nредкий\nмагический\nтрансмутация\nдевиантный\nИсточник : Dark Archive pg. 101\nВаши конечности напрягаются, когда вы делаете мощный замах.\nНанесите Удар (Strike) ближнего боя.\nЕсли он попадает, вы наносите дополнительную кость урона оружия и отталкиваете цель назад на 5 футов.\nЕсли вы хотя бы 10-го уровня, то увеличиваете это значение до 2 дополнительных костей и отталкиваете цель на 10 футов, а если вы хотя бы 18-го уровня, то увеличиваете его до 3 дополнительных костей и отталкиваете цель на 15 футов.\nПробуждение : При критическом попадании, вы отталкиваете цель назад на удвоенное расстояние и сбиваете ее ничком .\nПробуждение : При попадании, вы наносите 1d6 продолжительного урона кровотечением.\nОн увеличивается до 2d6 на 10-м уровне и 3d6 на 18-м уровне.",
+    "own_text": "Титанический замах ( Titan Swing ) [активность из 2-х действий] / 2\nредкий\nмагический\nтрансмутация\nдевиантный\nИсточник : Dark Archive pg. 101\nВаши конечности напрягаются, когда вы делаете мощный замах.\nНанесите Удар (Strike) ближнего боя.\nЕсли он попадает, вы наносите дополнительную кость урона оружия и отталкиваете цель назад на 5 футов.\nЕсли вы хотя бы 10-го уровня, то увеличиваете это значение до 2 дополнительных костей и отталкиваете цель на 10 футов, а если вы хотя бы 18-го уровня, то увеличиваете его до 3 дополнительных костей и отталкиваете цель на 15 футов.\nПробуждение : При критическом попадании, вы отталкиваете цель назад на удвоенное расстояние и сбиваете ее ничком .\nПробуждение : При попадании, вы наносите 1d6 продолжительного урона кровотечением.\nОн увеличивается до 2d6 на 10-м уровне и 3d6 на 18-м уровне.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-titan-swing",
+    "traits": [
+      "редкий",
+      "магический",
+      "трансмутация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 101",
+      "Пробуждение": "При попадании, вы наносите 1d6 продолжительного урона кровотечением. Он увеличивается до 2d6 на 10-м уровне и 3d6 на 18-м уровне."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3785",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "активность из 2-х действий"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-high-speed-regeneration",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-high-speed-regeneration",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#high-speed-regeneration-6"
+    ],
+    "kind": "feature",
+    "name": "Быстрая регенерация",
+    "english": "High-Speed Regeneration",
+    "title": "Быстрая регенерация ( High-Speed Regeneration ) / 6",
+    "level": 6,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll",
+    "html": "<section>\n<span></span><h4>Быстрая регенерация (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3786\" rel=\"noopener noreferrer\" target=\"_blank\">High-Speed Regeneration</a>)  [свободное действие]  / 6</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>некромантия</p></li>\n<li><p>исцеление</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Триггер</strong>: Начинается ваш ход</p>\n<p><strong>Источник</strong>: Dark Archive pg. 101</p>\n<hr>\n<p>Ваши раны затягиваются без особых усилий.\nВы восстанавливаете ОЗ, равные своему удвоенному уровню.\nКогда вы получаете эту девиацию, Мастер тайно выбирает 1 тип энергетического урона или драгоценного материала, например, огонь или <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/crafting_and_treasure/materials.html#material-cold-iron\" rel=\"noopener noreferrer\" target=\"_blank\"><span>холодное железо</span></a>.\nКогда вы получаете урон этого типа, ваша рана дымится до конца вашего следующего хода, не позволяя вам использовать \"Быструю регенерацию\".</p>\n<p><strong>Пробуждение</strong>: Ваша регенерация может автоматически спасти вас на пороге смерти.\nРаз в день, вместо обычного триггера, вы можете использовать \"Быструю регенерацию\", когда ваши ОЗ будут снижены до 0.\nВы избегаете нокаута и остаетесь с тем количеством ОЗ, которое вы восстановили.</p>\n<p><strong>Пробуждение</strong>: Восстановление оживляет вас.\nВы получаете бонус состояния +10 футов к Скорости до конца своего хода.</p>\n</section>",
+    "text": "Быстрая регенерация ( High-Speed Regeneration ) [свободное действие] / 6\nредкий\nмагический\nнекромантия\nисцеление\nдевиантный\nТриггер : Начинается ваш ход\nИсточник : Dark Archive pg. 101\nВаши раны затягиваются без особых усилий.\nВы восстанавливаете ОЗ, равные своему удвоенному уровню.\nКогда вы получаете эту девиацию, Мастер тайно выбирает 1 тип энергетического урона или драгоценного материала, например, огонь или холодное железо .\nКогда вы получаете урон этого типа, ваша рана дымится до конца вашего следующего хода, не позволяя вам использовать \"Быструю регенерацию\".\nПробуждение : Ваша регенерация может автоматически спасти вас на пороге смерти.\nРаз в день, вместо обычного триггера, вы можете использовать \"Быструю регенерацию\", когда ваши ОЗ будут снижены до 0.\nВы избегаете нокаута и остаетесь с тем количеством ОЗ, которое вы восстановили.\nПробуждение : Восстановление оживляет вас.\nВы получаете бонус состояния +10 футов к Скорости до конца своего хода.",
+    "own_text": "Быстрая регенерация ( High-Speed Regeneration ) [свободное действие] / 6\nредкий\nмагический\nнекромантия\nисцеление\nдевиантный\nТриггер : Начинается ваш ход\nИсточник : Dark Archive pg. 101\nВаши раны затягиваются без особых усилий.\nВы восстанавливаете ОЗ, равные своему удвоенному уровню.\nКогда вы получаете эту девиацию, Мастер тайно выбирает 1 тип энергетического урона или драгоценного материала, например, огонь или холодное железо .\nКогда вы получаете урон этого типа, ваша рана дымится до конца вашего следующего хода, не позволяя вам использовать \"Быструю регенерацию\".\nПробуждение : Ваша регенерация может автоматически спасти вас на пороге смерти.\nРаз в день, вместо обычного триггера, вы можете использовать \"Быструю регенерацию\", когда ваши ОЗ будут снижены до 0.\nВы избегаете нокаута и остаетесь с тем количеством ОЗ, которое вы восстановили.\nПробуждение : Восстановление оживляет вас.\nВы получаете бонус состояния +10 футов к Скорости до конца своего хода.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-high-speed-regeneration",
+    "traits": [
+      "редкий",
+      "магический",
+      "некромантия",
+      "исцеление",
+      "девиантный"
+    ],
+    "fields": {
+      "Триггер": "Начинается ваш ход",
+      "Источник": "Dark Archive pg. 101",
+      "Пробуждение": "Восстановление оживляет вас. Вы получаете бонус состояния +10 футов к Скорости до конца своего хода."
+    },
+    "field_links": {
+      "Триггер": [],
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3786",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/crafting_and_treasure/materials.html#material-cold-iron"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/crafting_and_treasure/materials.html#material-cold-iron",
+        "evidence": "Когда вы получаете эту девиацию, Мастер тайно выбирает 1 тип энергетического урона или драгоценного материала, например, огонь или холодное железо"
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "свободное действие"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-tectonic-stomp",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-tectonic-stomp",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#tectonic-stomp-2-10"
+    ],
+    "kind": "feature",
+    "name": "Тектонический топот",
+    "english": "Tectonic Stomp",
+    "title": "Тектонический топот ( Tectonic Stomp ) / 10",
+    "level": 10,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll",
+    "html": "<section>\n<span></span><h4>Тектонический топот (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3787\" rel=\"noopener noreferrer\" target=\"_blank\">Tectonic Stomp</a>)  [активность из 2-х действий]  / 10</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 101</p>\n<hr>\n<p>Вы вызываете небольшие толчки, которые опрокидывают ваших врагов.\nВсе существа в 30-футовой эманации, стоящие на земле, получают 1d6 дробящего урона за каждые 2 ваших уровня, с простым спасброском Рефлекса.\nСущество, провалившее спасбросок еще падает <span>ничком</span>.</p>\n<p><strong>Пробуждение</strong>: Ваш топот также выбрасывает из земли большие осколки.\nВы поднимаете с земли вплоть до 3 каменных кусков в свободных квадратах эманации; камни не могут находиться рядом друг с другом.\nВысота кусков составляет 5 футов, они блокируют передвижение и достаточно велики, чтобы <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-take-cover\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Укрыться (Take Cover) </span></a> за ними.\nОни имеют КБ 10, Твердость 8 и количество ОЗ, равное вашему уровню.\nОни иммунны к <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#ch9-damage-immunity-critical-hit\" rel=\"noopener noreferrer\" target=\"_blank\"><span>критическим попаданиям</span></a> и точному урону.\nКаменный кусок рассыпается, когда у него остается 0 ОЗ, и все они рассыпаются через 1 минуту или когда вы снова используете \"Тектонический топот\".</p>\n<p><strong>Пробуждение</strong>: Ваш топот грохочет по тем, кто ужасно провалил спасбросок.\nСущество критически провалившее свой спасбросок еще <span>ошеломлено 1</span>.</p>\n</section>",
+    "text": "Тектонический топот ( Tectonic Stomp ) [активность из 2-х действий] / 10\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 101\nВы вызываете небольшие толчки, которые опрокидывают ваших врагов.\nВсе существа в 30-футовой эманации, стоящие на земле, получают 1d6 дробящего урона за каждые 2 ваших уровня, с простым спасброском Рефлекса.\nСущество, провалившее спасбросок еще падает ничком .\nПробуждение : Ваш топот также выбрасывает из земли большие осколки.\nВы поднимаете с земли вплоть до 3 каменных кусков в свободных квадратах эманации; камни не могут находиться рядом друг с другом.\nВысота кусков составляет 5 футов, они блокируют передвижение и достаточно велики, чтобы Укрыться (Take Cover) за ними.\nОни имеют КБ 10, Твердость 8 и количество ОЗ, равное вашему уровню.\nОни иммунны к критическим попаданиям и точному урону.\nКаменный кусок рассыпается, когда у него остается 0 ОЗ, и все они рассыпаются через 1 минуту или когда вы снова используете \"Тектонический топот\".\nПробуждение : Ваш топот грохочет по тем, кто ужасно провалил спасбросок.\nСущество критически провалившее свой спасбросок еще ошеломлено 1 .",
+    "own_text": "Тектонический топот ( Tectonic Stomp ) [активность из 2-х действий] / 10\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 101\nВы вызываете небольшие толчки, которые опрокидывают ваших врагов.\nВсе существа в 30-футовой эманации, стоящие на земле, получают 1d6 дробящего урона за каждые 2 ваших уровня, с простым спасброском Рефлекса.\nСущество, провалившее спасбросок еще падает ничком .\nПробуждение : Ваш топот также выбрасывает из земли большие осколки.\nВы поднимаете с земли вплоть до 3 каменных кусков в свободных квадратах эманации; камни не могут находиться рядом друг с другом.\nВысота кусков составляет 5 футов, они блокируют передвижение и достаточно велики, чтобы Укрыться (Take Cover) за ними.\nОни имеют КБ 10, Твердость 8 и количество ОЗ, равное вашему уровню.\nОни иммунны к критическим попаданиям и точному урону.\nКаменный кусок рассыпается, когда у него остается 0 ОЗ, и все они рассыпаются через 1 минуту или когда вы снова используете \"Тектонический топот\".\nПробуждение : Ваш топот грохочет по тем, кто ужасно провалил спасбросок.\nСущество критически провалившее свой спасбросок еще ошеломлено 1 .",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-troll-tectonic-stomp",
+    "traits": [
+      "редкий",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 101",
+      "Пробуждение": "Ваш топот грохочет по тем, кто ужасно провалил спасбросок. Существо критически провалившее свой спасбросок еще ошеломлено 1 ."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3787",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-take-cover",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#ch9-damage-immunity-critical-hit"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [],
+    "actions": [
+      "активность из 2-х действий"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#backlash-strained-metabolism"
+    ],
+    "kind": "feature",
+    "name": "Отдача: Напряженный метаболизм",
+    "english": "Backlash: Strained Metabolism",
+    "title": "Отдача: Напряженный метаболизм (Backlash: Strained Metabolism)",
+    "level": 1,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll",
+    "html": "<section>\n<span></span><h4>Отдача: Напряженный метаболизм (Backlash: Strained Metabolism)</h4>\n<p><strong>Источник</strong>: Dark Archive pg. 102</p>\n<p>Разогнанная физиология вашего тела требует питания большего обычного, в результате чего вы ослабеваете, когда это происходит в середине боя.</p>\n<p><strong>Легкая отдача</strong>: Ваш метаболизм мгновенно расходует запасы энергии организма, делая вас <span>ослабленным 1</span> и <span>неуклюжим 1</span>, пока вы не откусите кусочек пищи (что обычно требует 2 действия <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Взаимодействовать (Interact) </span></a>: одно, чтобы достать пищу, а другое, чтобы ее съесть).</p>\n<p><strong>Умеренная отдача</strong>: Ненасытный голод опустошает ваше тело.\nВы <span>ослаблены 1</span>, <span>неуклюжи 1</span> и <span>утомлены</span> пока не сможете съесть полноценный обед, на что требуется хотя бы 10 минут.</p>\n<p><strong>Сильная отдача</strong>: Нагрузка на ваше тело поистине непосильна.\nВы испытываете <span>тошноту 2</span> из-за головокружения, а также <span>ослаблены 1</span> и <span>неуклюжи 1</span>, пока не сможете полноценно поесть (для этого нужно, чтобы вас больше не <span>тошнило</span>).\nВы <span>утомлены</span>, пока не сможете полноценно отдохнуть ночью.</p>\n<p>⁯</p>\n</section>",
+    "text": "Отдача: Напряженный метаболизм (Backlash: Strained Metabolism)\nИсточник : Dark Archive pg. 102\nРазогнанная физиология вашего тела требует питания большего обычного, в результате чего вы ослабеваете, когда это происходит в середине боя.\nЛегкая отдача : Ваш метаболизм мгновенно расходует запасы энергии организма, делая вас ослабленным 1 и неуклюжим 1 , пока вы не откусите кусочек пищи (что обычно требует 2 действия Взаимодействовать (Interact) : одно, чтобы достать пищу, а другое, чтобы ее съесть).\nУмеренная отдача : Ненасытный голод опустошает ваше тело.\nВы ослаблены 1 , неуклюжи 1 и утомлены пока не сможете съесть полноценный обед, на что требуется хотя бы 10 минут.\nСильная отдача : Нагрузка на ваше тело поистине непосильна.\nВы испытываете тошноту 2 из-за головокружения, а также ослаблены 1 и неуклюжи 1 , пока не сможете полноценно поесть (для этого нужно, чтобы вас больше не тошнило ).\nВы утомлены , пока не сможете полноценно отдохнуть ночью.\n⁯",
+    "own_text": "Отдача: Напряженный метаболизм (Backlash: Strained Metabolism)\nИсточник : Dark Archive pg. 102\nРазогнанная физиология вашего тела требует питания большего обычного, в результате чего вы ослабеваете, когда это происходит в середине боя.\nЛегкая отдача : Ваш метаболизм мгновенно расходует запасы энергии организма, делая вас ослабленным 1 и неуклюжим 1 , пока вы не откусите кусочек пищи (что обычно требует 2 действия Взаимодействовать (Interact) : одно, чтобы достать пищу, а другое, чтобы ее съесть).\nУмеренная отдача : Ненасытный голод опустошает ваше тело.\nВы ослаблены 1 , неуклюжи 1 и утомлены пока не сможете съесть полноценный обед, на что требуется хотя бы 10 минут.\nСильная отдача : Нагрузка на ваше тело поистине непосильна.\nВы испытываете тошноту 2 из-за головокружения, а также ослаблены 1 и неуклюжи 1 , пока не сможете полноценно поесть (для этого нужно, чтобы вас больше не тошнило ).\nВы утомлены , пока не сможете полноценно отдохнуть ночью.\n⁯",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-troll-backlash",
+    "traits": [],
+    "fields": {
+      "Источник": "Dark Archive pg. 102",
+      "Легкая отдача": "Ваш метаболизм мгновенно расходует запасы энергии организма, делая вас ослабленным 1 и неуклюжим 1 , пока вы не откусите кусочек пищи (что обычно требует 2 действия Взаимодействовать (Interact) : одно, чтобы достать пищу, а другое, чтобы ее съесть).",
+      "Умеренная отдача": "Ненасытный голод опустошает ваше тело. Вы ослаблены 1 , неуклюжи 1 и утомлены пока не сможете съесть полноценный обед, на что требуется хотя бы 10 минут.",
+      "Сильная отдача": "Нагрузка на ваше тело поистине непосильна. Вы испытываете тошноту 2 из-за головокружения, а также ослаблены 1 и неуклюжи 1 , пока не сможете полноценно поесть (для этого нужно, чтобы вас больше не тошнило ). Вы утомлены , пока не сможете полноценно отдохнуть ночью."
+    },
+    "field_links": {
+      "Источник": [],
+      "Легкая отдача": [
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact"
+      ],
+      "Умеренная отдача": [],
+      "Сильная отдача": []
+    },
+    "links": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact"
+    ],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-eerie-flicker",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-eerie-flicker",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#eerie-flicker-2"
+    ],
+    "kind": "feature",
+    "name": "Жуткое мерцание",
+    "english": "Eerie Flicker",
+    "title": "Жуткое мерцание ( Eerie Flicker ) / 2",
+    "level": 2,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith",
+    "html": "<section>\n<span></span><h4>Жуткое мерцание (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3788\" rel=\"noopener noreferrer\" target=\"_blank\">Eerie Flicker</a>)  [реакция]  / 2</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>воплощение</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Триггер</strong>: <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Удар (Strike) </span></a> врага попадет по вам и вы не были <span>скрыты</span>, <span>спрятаны</span> или <span>необнаружены</span> для данного врага</p>\n<p><strong>Источник</strong>: Dark Archive pg. 102</p>\n<hr>\n<p>Ваше тело на мгновение переходит на <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/game_mastering/tools/The-Planes.html#plane-ethereal\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Эфирный План</span></a>.\nВы становитесь <span>скрыты</span> на 1 раунд, и чистая проверка от <span>сокрытия</span> применяется к Удару, который мог бы попасть по вам.\nПри провале этой чистой проверки Удар промахивается по вам.</p>\n<p><strong>Пробуждение</strong>: Когда ваше тело мерцает, вы на мгновение принимаете ужасающую форму.\nЕсли существо проваливает чистую проверку против <span>сокрытия</span> от вашего \"Жуткого мерцания\", оно становится <span>напугано 1</span>, и оно не уменьшает состояние <span>напуганности</span> от этого эффекта в конце того же хода, когда получило это состояние.</p>\n<p><strong>Пробуждение</strong>: Вы можете сжать свое мерцание в одно мгновение, увеличив шанс избежать спровоцировавшей атаки в обмен на более короткий эффект.\nЕсли вы решите так сделать, то чистая проверка <span>сокрытия</span> против спровоцировавшей атаки увеличивается до КС 9, но <span>сокрытие</span> действует только на спровоцировавший Удар.</p>\n</section>",
+    "text": "Жуткое мерцание ( Eerie Flicker ) [реакция] / 2\nредкий\nмагический\nвоплощение\nдевиантный\nТриггер : Удар (Strike) врага попадет по вам и вы не были скрыты , спрятаны или необнаружены для данного врага\nИсточник : Dark Archive pg. 102\nВаше тело на мгновение переходит на Эфирный План .\nВы становитесь скрыты на 1 раунд, и чистая проверка от сокрытия применяется к Удару, который мог бы попасть по вам.\nПри провале этой чистой проверки Удар промахивается по вам.\nПробуждение : Когда ваше тело мерцает, вы на мгновение принимаете ужасающую форму.\nЕсли существо проваливает чистую проверку против сокрытия от вашего \"Жуткого мерцания\", оно становится напугано 1 , и оно не уменьшает состояние напуганности от этого эффекта в конце того же хода, когда получило это состояние.\nПробуждение : Вы можете сжать свое мерцание в одно мгновение, увеличив шанс избежать спровоцировавшей атаки в обмен на более короткий эффект.\nЕсли вы решите так сделать, то чистая проверка сокрытия против спровоцировавшей атаки увеличивается до КС 9, но сокрытие действует только на спровоцировавший Удар.",
+    "own_text": "Жуткое мерцание ( Eerie Flicker ) [реакция] / 2\nредкий\nмагический\nвоплощение\nдевиантный\nТриггер : Удар (Strike) врага попадет по вам и вы не были скрыты , спрятаны или необнаружены для данного врага\nИсточник : Dark Archive pg. 102\nВаше тело на мгновение переходит на Эфирный План .\nВы становитесь скрыты на 1 раунд, и чистая проверка от сокрытия применяется к Удару, который мог бы попасть по вам.\nПри провале этой чистой проверки Удар промахивается по вам.\nПробуждение : Когда ваше тело мерцает, вы на мгновение принимаете ужасающую форму.\nЕсли существо проваливает чистую проверку против сокрытия от вашего \"Жуткого мерцания\", оно становится напугано 1 , и оно не уменьшает состояние напуганности от этого эффекта в конце того же хода, когда получило это состояние.\nПробуждение : Вы можете сжать свое мерцание в одно мгновение, увеличив шанс избежать спровоцировавшей атаки в обмен на более короткий эффект.\nЕсли вы решите так сделать, то чистая проверка сокрытия против спровоцировавшей атаки увеличивается до КС 9, но сокрытие действует только на спровоцировавший Удар.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-eerie-flicker",
+    "traits": [
+      "редкий",
+      "магический",
+      "воплощение",
+      "девиантный"
+    ],
+    "fields": {
+      "Триггер": "Удар (Strike) врага попадет по вам и вы не были скрыты , спрятаны или необнаружены для данного врага",
+      "Источник": "Dark Archive pg. 102",
+      "Пробуждение": "Вы можете сжать свое мерцание в одно мгновение, увеличив шанс избежать спровоцировавшей атаки в обмен на более короткий эффект. Если вы решите так сделать, то чистая проверка сокрытия против спровоцировавшей атаки увеличивается до КС 9, но сокрытие действует только на спровоцировавший Удар."
+    },
+    "field_links": {
+      "Триггер": [
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike"
+      ],
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3788",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-strike",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/game_mastering/tools/The-Planes.html#plane-ethereal"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "реакция"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-ghostly-grasp",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-ghostly-grasp",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#ghostly-grasp-1-2"
+    ],
+    "kind": "feature",
+    "name": "Хватка привидения",
+    "english": "Ghostly Grasp",
+    "title": "Хватка привидения ( Ghostly Grasp ) / 2",
+    "level": 2,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith",
+    "html": "<section>\n<span></span><h4>Хватка привидения (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3789\" rel=\"noopener noreferrer\" target=\"_blank\">Ghostly Grasp</a>)  [одиночное действие]  / 2</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 102</p>\n<hr>\n<p>Из вас вытягивается невидимая рука, чтобы хватать объекты и манипулировать ими.\nРука обладает досягаемостью вплоть до 15 футов, хватает ничейные объекты Массой 1 или меньше и мгновенно перекладывает его в одну из ваших свободных рук или к вашим ногам.\nИли же она достает на расстояние вплоть до 15 футов и выполняет простое действие <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Взаимодействовать (Interact) </span></a>, например, распахивает открытое окно, хотя она не может выполнять действия, требующие значительной ловкости.\nЗа каждые 5 ваших уровней количество груза, которое может поднять рука, увеличивается на 1 Массу, а досягаемость руки увеличивается на 15 футов.\nБудучи призрачной, рука может влиять на <span>привидений</span>, <span>духов</span> и других <span>бестелесных</span> сущностей, однако в большинстве случаев для того, чтобы это было полезно, необходимо пробуждение.</p>\n<p><strong>Пробуждение</strong>: Ваша невидимая рука может схватить ничего не подозревающую цель.\nВы можете изменить цель этой силы на 1 существо в пределах дистанции.\nВы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак <span>атака</span>.\nПри успехе цель <span>схвачена</span> рукой (или <span>сдерживаема</span> при критическом успехе).\nЭто длится 1 раунд или пока существо не <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-escape\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Вырвется (Escapes)</span></a>.</p>\n<p><strong>Пробуждение</strong>: Вы вызываете дополнительные призрачные руки, которые сплетаются вместе и толкают цели.\nВы можете изменить цель этой силы на 1 существо в пределах дистанции.\nВы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак <span>атака</span>.\nПри успехе, вы можете передвинуть цель на 5 футов в любом направлении (10 футов при критическом успехе).</p>\n</section>",
+    "text": "Хватка привидения ( Ghostly Grasp ) [одиночное действие] / 2\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 102\nИз вас вытягивается невидимая рука, чтобы хватать объекты и манипулировать ими.\nРука обладает досягаемостью вплоть до 15 футов, хватает ничейные объекты Массой 1 или меньше и мгновенно перекладывает его в одну из ваших свободных рук или к вашим ногам.\nИли же она достает на расстояние вплоть до 15 футов и выполняет простое действие Взаимодействовать (Interact) , например, распахивает открытое окно, хотя она не может выполнять действия, требующие значительной ловкости.\nЗа каждые 5 ваших уровней количество груза, которое может поднять рука, увеличивается на 1 Массу, а досягаемость руки увеличивается на 15 футов.\nБудучи призрачной, рука может влиять на привидений , духов и других бестелесных сущностей, однако в большинстве случаев для того, чтобы это было полезно, необходимо пробуждение.\nПробуждение : Ваша невидимая рука может схватить ничего не подозревающую цель.\nВы можете изменить цель этой силы на 1 существо в пределах дистанции.\nВы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак атака .\nПри успехе цель схвачена рукой (или сдерживаема при критическом успехе).\nЭто длится 1 раунд или пока существо не Вырвется (Escapes) .\nПробуждение : Вы вызываете дополнительные призрачные руки, которые сплетаются вместе и толкают цели.\nВы можете изменить цель этой силы на 1 существо в пределах дистанции.\nВы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак атака .\nПри успехе, вы можете передвинуть цель на 5 футов в любом направлении (10 футов при критическом успехе).",
+    "own_text": "Хватка привидения ( Ghostly Grasp ) [одиночное действие] / 2\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 102\nИз вас вытягивается невидимая рука, чтобы хватать объекты и манипулировать ими.\nРука обладает досягаемостью вплоть до 15 футов, хватает ничейные объекты Массой 1 или меньше и мгновенно перекладывает его в одну из ваших свободных рук или к вашим ногам.\nИли же она достает на расстояние вплоть до 15 футов и выполняет простое действие Взаимодействовать (Interact) , например, распахивает открытое окно, хотя она не может выполнять действия, требующие значительной ловкости.\nЗа каждые 5 ваших уровней количество груза, которое может поднять рука, увеличивается на 1 Массу, а досягаемость руки увеличивается на 15 футов.\nБудучи призрачной, рука может влиять на привидений , духов и других бестелесных сущностей, однако в большинстве случаев для того, чтобы это было полезно, необходимо пробуждение.\nПробуждение : Ваша невидимая рука может схватить ничего не подозревающую цель.\nВы можете изменить цель этой силы на 1 существо в пределах дистанции.\nВы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак атака .\nПри успехе цель схвачена рукой (или сдерживаема при критическом успехе).\nЭто длится 1 раунд или пока существо не Вырвется (Escapes) .\nПробуждение : Вы вызываете дополнительные призрачные руки, которые сплетаются вместе и толкают цели.\nВы можете изменить цель этой силы на 1 существо в пределах дистанции.\nВы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак атака .\nПри успехе, вы можете передвинуть цель на 5 футов в любом направлении (10 футов при критическом успехе).",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-ghostly-grasp",
+    "traits": [
+      "редкий",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 102",
+      "Пробуждение": "Вы вызываете дополнительные призрачные руки, которые сплетаются вместе и толкают цели. Вы можете изменить цель этой силы на 1 существо в пределах дистанции. Вы совершаете бросок атаки против КС Стойкости существа и добавляете к действию признак атака . При успехе, вы можете передвинуть цель на 5 футов в любом направлении (10 футов при критическом успехе)."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3789",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-interact",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-escape"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "одиночное действие"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-enervating-wail",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-enervating-wail",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#enervating-wail-2-6"
+    ],
+    "kind": "feature",
+    "name": "Обессиливающий вой",
+    "english": "Enervating Wail",
+    "title": "Обессиливающий вой ( Enervating Wail ) / 6",
+    "level": 6,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith",
+    "html": "<section>\n<span></span><h4>Обессиливающий вой (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3790\" rel=\"noopener noreferrer\" target=\"_blank\">Enervating Wail</a>)  [активность из 2-х действий]  / 6</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>некромантия</p></li>\n<li><p>слуховой</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 102</p>\n<hr>\n<p>Вы издаете ужасный вопль, разрывающий дух всех, кто находится поблизости.\nВсе живые существа в 20-футовой эманации получают негативный урон, с простым спасброском Стойкости.\nУрон равен 4d6, + 1d6 за каждый ваш уровень после 6-го.</p>\n<p><strong>Пробуждение</strong>: Ваш крик эхом отдается в сознании.\nВместо обычного крика, вы можете издать тихий психический вой, который меняет тип урона на ментальный, спасбросок на Волю, убирает <span>слуховой</span> признак и добавляет <span>ментальный</span> признак.</p>\n<p><strong>Пробуждение</strong>: Ваш вопль лишает врагов сил.\nВ дополнение к нормальным эффектам, живые существа в области при успехе <span>ослаблены 1</span> на 1 раунд (но не при критическом успехе), при провале <span>ослаблены 1</span> на 1 минуту, а при крит.провале <span>ослаблены 2</span> на 1 минуту.</p>\n</section>",
+    "text": "Обессиливающий вой ( Enervating Wail ) [активность из 2-х действий] / 6\nредкий\nмагический\nнекромантия\nслуховой\nдевиантный\nИсточник : Dark Archive pg. 102\nВы издаете ужасный вопль, разрывающий дух всех, кто находится поблизости.\nВсе живые существа в 20-футовой эманации получают негативный урон, с простым спасброском Стойкости.\nУрон равен 4d6, + 1d6 за каждый ваш уровень после 6-го.\nПробуждение : Ваш крик эхом отдается в сознании.\nВместо обычного крика, вы можете издать тихий психический вой, который меняет тип урона на ментальный, спасбросок на Волю, убирает слуховой признак и добавляет ментальный признак.\nПробуждение : Ваш вопль лишает врагов сил.\nВ дополнение к нормальным эффектам, живые существа в области при успехе ослаблены 1 на 1 раунд (но не при критическом успехе), при провале ослаблены 1 на 1 минуту, а при крит.провале ослаблены 2 на 1 минуту.",
+    "own_text": "Обессиливающий вой ( Enervating Wail ) [активность из 2-х действий] / 6\nредкий\nмагический\nнекромантия\nслуховой\nдевиантный\nИсточник : Dark Archive pg. 102\nВы издаете ужасный вопль, разрывающий дух всех, кто находится поблизости.\nВсе живые существа в 20-футовой эманации получают негативный урон, с простым спасброском Стойкости.\nУрон равен 4d6, + 1d6 за каждый ваш уровень после 6-го.\nПробуждение : Ваш крик эхом отдается в сознании.\nВместо обычного крика, вы можете издать тихий психический вой, который меняет тип урона на ментальный, спасбросок на Волю, убирает слуховой признак и добавляет ментальный признак.\nПробуждение : Ваш вопль лишает врагов сил.\nВ дополнение к нормальным эффектам, живые существа в области при успехе ослаблены 1 на 1 раунд (но не при критическом успехе), при провале ослаблены 1 на 1 минуту, а при крит.провале ослаблены 2 на 1 минуту.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-enervating-wail",
+    "traits": [
+      "редкий",
+      "магический",
+      "некромантия",
+      "слуховой",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 102",
+      "Пробуждение": "Ваш вопль лишает врагов сил. В дополнение к нормальным эффектам, живые существа в области при успехе ослаблены 1 на 1 раунд (но не при критическом успехе), при провале ослаблены 1 на 1 минуту, а при крит.провале ослаблены 2 на 1 минуту."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": []
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3790"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [],
+    "actions": [
+      "активность из 2-х действий"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-distant-wandering",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-distant-wandering",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#distant-wandering-1-10"
+    ],
+    "kind": "feature",
+    "name": "Дальнее странствие",
+    "english": "Distant Wandering",
+    "title": "Дальнее странствие ( Distant Wandering ) / 10",
+    "level": 10,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith",
+    "html": "<section>\n<span></span><h4>Дальнее странствие (<a href=\"https://2e.aonprd.com/Feats.aspx?ID=3791\" rel=\"noopener noreferrer\" target=\"_blank\">Distant Wandering</a>)  [одиночное действие]  / 10</h4>\n<ul>\n<li><p><span>редкий</span></p></li>\n<li><p>магический</p></li>\n<li><p>эвокация</p></li>\n<li><p>девиантный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 103</p>\n<hr>\n<p>Ваше тело падает без сознания, и из него проецируется ваш дух.\nНаходясь в форме духа, вы не можете сознательно двигать своим телом, и вы <span>невидимы</span> и неслышимы, однако существо все же может заметить признаки вашего присутствия и прохождения, как и для <span>невидимого</span> существа под действием <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/S/silence.html#spell-s-silence\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Тишина (Silence) / Закл. 2</span></a> или <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/P/prying-eye.html#spell-p-prying-eye\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Пытливый глаз (Prying Eye) / Закл. 5</span></a>.\nВы можете свободно передвигаться, хотя не можете ничего трогать или двигать, творить заклинания, атаковать или как-то иначе влиять на окружение.\nНесмотря на свою призрачную форму, вы не <span>бестелесны</span> и не можете проходить через преграды, которые не могли бы пройти в своем теле.\nБольшинство эффектов не могут навредить вашей форме духа, однако некоторые заклинания, такие как <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/S/spirit-blast.html#spell-s-spirit-blast\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Духовный взрыв (Spirit Blast) / Закл. 6</span></a> и <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/S/spirit-song.html#spell-s-spirit-song\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Духовная песня (Spirit Song) / Закл. 8</span></a>, явно наносят урон духу существа.</p>\n<p>Вы можете вернуться в свое тело свободным действием ( [свободное действие] ).\nЕсли в начале своего хода вы находитесь в форме духа, то должны сделать еще одну проверку отдачи девиации, при провале возвращаясь в свое тело.</p>\n<p><strong>Пробуждение</strong>: Ваш дух движется со скоростью мысли.\nВ форме духа вы получаете Скорость полета и бонус состояния +20 футов к Скорости.</p>\n<p><strong>Пробуждение</strong>: Когда вы проецируете свой дух, время, кажется, идет медленнее, позволяя вам замечать окружающие вещи.\nКогда вы входите в форму духа, вы можете <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/skills.html#skill-recall-knowledge\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Вспомнить информацию (Recall Knowledge) </span></a> или <a href=\"https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-seek\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Искать (Seek)</span></a>.\nНаходясь в форме духа, вы <span>ускорены</span> и можете использовать это дополнительное действие только для \"Вспомнить информацию\" или Поиска.</p>\n</section>",
+    "text": "Дальнее странствие ( Distant Wandering ) [одиночное действие] / 10\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 103\nВаше тело падает без сознания, и из него проецируется ваш дух.\nНаходясь в форме духа, вы не можете сознательно двигать своим телом, и вы невидимы и неслышимы, однако существо все же может заметить признаки вашего присутствия и прохождения, как и для невидимого существа под действием Тишина (Silence) / Закл. 2 или Пытливый глаз (Prying Eye) / Закл. 5 .\nВы можете свободно передвигаться, хотя не можете ничего трогать или двигать, творить заклинания, атаковать или как-то иначе влиять на окружение.\nНесмотря на свою призрачную форму, вы не бестелесны и не можете проходить через преграды, которые не могли бы пройти в своем теле.\nБольшинство эффектов не могут навредить вашей форме духа, однако некоторые заклинания, такие как Духовный взрыв (Spirit Blast) / Закл. 6 и Духовная песня (Spirit Song) / Закл. 8 , явно наносят урон духу существа.\nВы можете вернуться в свое тело свободным действием ( [свободное действие] ).\nЕсли в начале своего хода вы находитесь в форме духа, то должны сделать еще одну проверку отдачи девиации, при провале возвращаясь в свое тело.\nПробуждение : Ваш дух движется со скоростью мысли.\nВ форме духа вы получаете Скорость полета и бонус состояния +20 футов к Скорости.\nПробуждение : Когда вы проецируете свой дух, время, кажется, идет медленнее, позволяя вам замечать окружающие вещи.\nКогда вы входите в форму духа, вы можете Вспомнить информацию (Recall Knowledge) или Искать (Seek) .\nНаходясь в форме духа, вы ускорены и можете использовать это дополнительное действие только для \"Вспомнить информацию\" или Поиска.",
+    "own_text": "Дальнее странствие ( Distant Wandering ) [одиночное действие] / 10\nредкий\nмагический\nэвокация\nдевиантный\nИсточник : Dark Archive pg. 103\nВаше тело падает без сознания, и из него проецируется ваш дух.\nНаходясь в форме духа, вы не можете сознательно двигать своим телом, и вы невидимы и неслышимы, однако существо все же может заметить признаки вашего присутствия и прохождения, как и для невидимого существа под действием Тишина (Silence) / Закл. 2 или Пытливый глаз (Prying Eye) / Закл. 5 .\nВы можете свободно передвигаться, хотя не можете ничего трогать или двигать, творить заклинания, атаковать или как-то иначе влиять на окружение.\nНесмотря на свою призрачную форму, вы не бестелесны и не можете проходить через преграды, которые не могли бы пройти в своем теле.\nБольшинство эффектов не могут навредить вашей форме духа, однако некоторые заклинания, такие как Духовный взрыв (Spirit Blast) / Закл. 6 и Духовная песня (Spirit Song) / Закл. 8 , явно наносят урон духу существа.\nВы можете вернуться в свое тело свободным действием ( [свободное действие] ).\nЕсли в начале своего хода вы находитесь в форме духа, то должны сделать еще одну проверку отдачи девиации, при провале возвращаясь в свое тело.\nПробуждение : Ваш дух движется со скоростью мысли.\nВ форме духа вы получаете Скорость полета и бонус состояния +20 футов к Скорости.\nПробуждение : Когда вы проецируете свой дух, время, кажется, идет медленнее, позволяя вам замечать окружающие вещи.\nКогда вы входите в форму духа, вы можете Вспомнить информацию (Recall Knowledge) или Искать (Seek) .\nНаходясь в форме духа, вы ускорены и можете использовать это дополнительное действие только для \"Вспомнить информацию\" или Поиска.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-feat-wraith-distant-wandering",
+    "traits": [
+      "редкий",
+      "магический",
+      "эвокация",
+      "девиантный"
+    ],
+    "fields": {
+      "Источник": "Dark Archive pg. 103",
+      "Пробуждение": "Когда вы проецируете свой дух, время, кажется, идет медленнее, позволяя вам замечать окружающие вещи. Когда вы входите в форму духа, вы можете Вспомнить информацию (Recall Knowledge) или Искать (Seek) . Находясь в форме духа, вы ускорены и можете использовать это дополнительное действие только для \"Вспомнить информацию\" или Поиска."
+    },
+    "field_links": {
+      "Источник": [],
+      "Пробуждение": [
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/skills.html#skill-recall-knowledge",
+        "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-seek"
+      ]
+    },
+    "links": [
+      "https://2e.aonprd.com/Feats.aspx?ID=3791",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/S/silence.html#spell-s-silence",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/P/prying-eye.html#spell-p-prying-eye",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/S/spirit-blast.html#spell-s-spirit-blast",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/spells/S/spirit-song.html#spell-s-spirit-song",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/skills.html#skill-recall-knowledge",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/playing_the_game.html#action-seek"
+    ],
+    "effects": [],
+    "grants": [
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-classifications-deviation-saves-and-attack-rolls",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      },
+      {
+        "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+        "evidence": "Общие правила и отдача классификации девиантного умения."
+      }
+    ],
+    "uncertainties": [
+      "Числовые и условные эффекты, не показанные в расчетах или дополнительных выборах, применяются вручную по полному описанию."
+    ],
+    "actions": [
+      "одиночное действие",
+      "свободное действие"
+    ],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  },
+  {
+    "id": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+    "aliases": [
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+      "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#backlash-encroaching-presence"
+    ],
+    "kind": "feature",
+    "name": "Отдача: Навязчивое присутствие",
+    "english": "Backlash: Encroaching Presence",
+    "title": "Отдача: Навязчивое присутствие (Backlash: Encroaching Presence)",
+    "level": 1,
+    "owner": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html",
+    "parent": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith",
+    "html": "<section>\n<span></span><h4>Отдача: Навязчивое присутствие (Backlash: Encroaching Presence)</h4>\n<p><strong>Источник</strong>: Dark Archive pg. 103</p>\n<p>Увидев и прикоснувшись к потустороннему, вы становитесь открытыми для его чуждого влияния, искажающего ваше восприятие и мысли.</p>\n<p><strong>Легкая отдача</strong>: Нечто необъяснимое затрагивает ваш разум, оставляя в вас томительный ужас.\nВы становитесь <span>напуганы 3</span>.</p>\n<p><strong>Умеренная отдача</strong>: Ваше зрение охватывают дезориентирующие видения и образы, словно вы видите через скопление чуждых сенсорных чувств.\nНа 10 минут все существа становятся <span>скрыты</span> для вас, поскольку они покрыты зрительными искажениями, которые можете видеть только вы.</p>\n<p><strong>Сильная отдача</strong>: Ваша жизненная сила утекает, когда присутствие уносит вашу душу туда, где она обитает.\nВы становитесь <span>обречены 1</span> и <span>истощены 2</span> до своих следующих ежедневных приготовлений.</p>\n</section>",
+    "text": "Отдача: Навязчивое присутствие (Backlash: Encroaching Presence)\nИсточник : Dark Archive pg. 103\nУвидев и прикоснувшись к потустороннему, вы становитесь открытыми для его чуждого влияния, искажающего ваше восприятие и мысли.\nЛегкая отдача : Нечто необъяснимое затрагивает ваш разум, оставляя в вас томительный ужас.\nВы становитесь напуганы 3 .\nУмеренная отдача : Ваше зрение охватывают дезориентирующие видения и образы, словно вы видите через скопление чуждых сенсорных чувств.\nНа 10 минут все существа становятся скрыты для вас, поскольку они покрыты зрительными искажениями, которые можете видеть только вы.\nСильная отдача : Ваша жизненная сила утекает, когда присутствие уносит вашу душу туда, где она обитает.\nВы становитесь обречены 1 и истощены 2 до своих следующих ежедневных приготовлений.",
+    "own_text": "Отдача: Навязчивое присутствие (Backlash: Encroaching Presence)\nИсточник : Dark Archive pg. 103\nУвидев и прикоснувшись к потустороннему, вы становитесь открытыми для его чуждого влияния, искажающего ваше восприятие и мысли.\nЛегкая отдача : Нечто необъяснимое затрагивает ваш разум, оставляя в вас томительный ужас.\nВы становитесь напуганы 3 .\nУмеренная отдача : Ваше зрение охватывают дезориентирующие видения и образы, словно вы видите через скопление чуждых сенсорных чувств.\nНа 10 минут все существа становятся скрыты для вас, поскольку они покрыты зрительными искажениями, которые можете видеть только вы.\nСильная отдача : Ваша жизненная сила утекает, когда присутствие уносит вашу душу туда, где она обитает.\nВы становитесь обречены 1 и истощены 2 до своих следующих ежедневных приготовлений.",
+    "source": "https://pf2e-ru-translation.readthedocs.io/ru/latest/books/Dark-Archive/Deviant-Abilities.html#deviant-abilities-wraith-backlash",
+    "traits": [],
+    "fields": {
+      "Источник": "Dark Archive pg. 103",
+      "Легкая отдача": "Нечто необъяснимое затрагивает ваш разум, оставляя в вас томительный ужас. Вы становитесь напуганы 3 .",
+      "Умеренная отдача": "Ваше зрение охватывают дезориентирующие видения и образы, словно вы видите через скопление чуждых сенсорных чувств. На 10 минут все существа становятся скрыты для вас, поскольку они покрыты зрительными искажениями, которые можете видеть только вы.",
+      "Сильная отдача": "Ваша жизненная сила утекает, когда присутствие уносит вашу душу туда, где она обитает. Вы становитесь обречены 1 и истощены 2 до своих следующих ежедневных приготовлений."
+    },
+    "field_links": {
+      "Источник": [],
+      "Легкая отдача": [],
+      "Умеренная отдача": [],
+      "Сильная отдача": []
+    },
+    "links": [],
+    "effects": [],
+    "grants": [],
+    "uncertainties": [],
+    "actions": [],
+    "prerequisites": "",
+    "repeatable": false,
+    "has_choices": false
+  }
+]
